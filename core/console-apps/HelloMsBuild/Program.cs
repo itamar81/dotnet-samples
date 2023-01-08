@@ -7,8 +7,6 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("new code ");
-            Console.WriteLine("hi again ");
         }
     }
 }
